@@ -391,6 +391,9 @@ body{
     max-width: 1152px;
     margin-inline: auto;
 }
+.company-footer{
+    gap: 16px;
+}
 .com-intro>p{
     color: var(--silver);
     font-size: 14px;
@@ -401,8 +404,11 @@ body{
 .social-icons{
     gap: 16px;
 }
-.company{
-    width: 30%;
+.one{
+    margin: 16px 0px;
+}
+.company-link-footer{
+    gap: 32px;
 }
 .heading>h3{
     margin-bottom: 16px;
@@ -411,9 +417,6 @@ body{
     font-weight: 600;
     line-height: 28px;
     letter-spacing: 0em;
-}
-.footer-links{
-    gap: 12px;
 }
 .email{
     border-radius: 8px;
