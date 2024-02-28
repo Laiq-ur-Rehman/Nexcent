@@ -16,14 +16,11 @@ ul{
 }
 body{
     font-family: "Inter", sans-serif;
-    max-width: 1800px;
 }
 .container{
     container-type: inline-size;
     max-width: 1440px;
-    width: 100%;
-    padding-left: 144px;
-    padding-right: 144px;
+    margin-inline: auto;
 }
 .hero{
     max-width: 100%;
